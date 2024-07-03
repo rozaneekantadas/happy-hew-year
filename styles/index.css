@@ -225,7 +225,7 @@
     padding: 30px;
 }
 
-.offer-details {
+.best-offer-details {
     text-align: left;
 }
 
@@ -238,10 +238,6 @@
     margin-bottom: 16px;
 }
 
-.offer-details img {
+.best-offer-details img {
     margin-top: 44px;
 }
-
-/* .offer-details h3 {
-    max-width: 276px;
-} */
