@@ -246,9 +246,8 @@
 
 .best-gift-section {
     width: 1320px;
-    height: 480px;
     margin: auto;
-    margin-top: 120px;  
+    margin-top: 120px;
 }
 
 .best-gift-section p {
@@ -264,7 +263,63 @@
     margin-bottom: 24px;
 }
 
-.gift-image img:hover {
+.gift-image-section img:hover {
     border: 4px solid #FF0000;
     border-radius: 20px;
+}
+
+/* subscribe section styles */
+
+.subscribe-section {
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 120px;
+    border-radius: 16px;
+    background: #ff00000d;
+}
+
+.subscribe-sec {
+    width: 896px;
+    margin: auto;
+    text-align: center;
+}
+
+.subscribe-sec img {
+    margin-bottom: 40px;
+}
+
+.subscribe-sec p {
+    margin-top: 22px;
+    margin-bottom: 48px;
+}
+
+.subscribe-info-section input {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #0702114d;
+    background: #FFFFFF;
+    border-radius: 50px 0 0 50px;
+    padding: 20px 25px;
+    width: 438px;
+    border: 0;
+    margin-right: 0;
+}
+
+.subscribe-btn {
+    background: #FF0000;
+    border-radius: 0px 50px 50px 0px;
+    border: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    width: 210px;
+    padding: 20px;
+    margin-left: 0;
 }
