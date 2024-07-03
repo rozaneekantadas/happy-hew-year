@@ -37,3 +37,41 @@
     width: 630px;
     margin-top: 0;
 }
+
+.offer-content {
+    max-width: 805px;
+    margin: auto;
+}
+
+.offer-details {
+    text-align: center;
+}
+
+.offer-text1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 88px;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+
+.offer-text2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FF0000;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.offer-text3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #070211;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
